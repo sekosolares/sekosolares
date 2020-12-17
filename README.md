@@ -1,9 +1,9 @@
 <div id="spanish">
-# ¡Hola!
+  <h1> ¡Hola! </h1>
 </div>
 
 <div id="english" style="display:none">
-# Hi!
+  <h1> Hi! </h1>
 </div>
 <!--
 **sekosolares/sekosolares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
