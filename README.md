@@ -1,10 +1,14 @@
-<div id="spanish">
-  <h1> ¡Hola! </h1>
-</div>
+## Welcome to my Github!
 
-<div id="english" style="display:none">
-  <h1> Hi! </h1>
-</div>
+Hi there! I am Axel J. Solares
+
+### My primary programming languages
+1. Javascript
+2. Python
+3. C / C++
+
+
+
 <!--
 **sekosolares/sekosolares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
