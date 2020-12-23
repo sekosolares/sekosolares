@@ -1,3 +1,7 @@
+<figure style="border:3px solid red;">
+  <img src="https://ik.imagekit.io/sekosolares/SekoSite/FB-Cover2_G34ySu9i6.png">
+</figure>
+
 ## Welcome to my Github!
 
 Hi there! I am Axel J. Solares
