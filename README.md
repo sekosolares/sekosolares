@@ -9,14 +9,14 @@ Hi there! I am Axel J. Solares, and I'm mainly a Frontend Developer. My short te
 2. Angular
 
 
-### My other interests
+### 🤔 My other interests
 
 - IT Security
 - AI / Machine Learning
 - IoT
 
 
-### My primary programming languages are
+### 👨🏻‍💻 My primary programming languages are
 
 1. Javascript
 2. Python
