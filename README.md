@@ -1,30 +1,32 @@
-## Welcome to my Github!
+[<img src="https://ik.imagekit.io/sekosolares/SekoSite/FB-Cover2_G34ySu9i6.png" width="510">](https://www.seko.dev)
 
-Hi there! I am Axel J. Solares, and I'm mainly a Frontend Developer. My short term goal is to improve my Backend skills.
+## Welcome! Nice to see you here! 🦉
 
-
-### ⌨ The Frameworks I've used are
-
-1. Svelte
-2. Angular
+Hi there! I am Axel J. Solares (A.K.A. Seko), and I'm mainly a Frontend Developer. I love technology and the way we can use it to simplify our lives, so I am always willing to learn new technologies to improve my job and help others.
+My long term goal is to create something to help the planet.
 
 
-### 🤔 My other interests
-
-- IT Security
-- AI / Machine Learning
-- IoT
-
-
-### 👨🏻‍💻 My primary programming languages are
+### 👨🏻‍💻 Main programming languages
 
 1. Javascript
 2. Python
 3. C / C++
 
 
-Don't forget to visit my website:
-[<img src="https://ik.imagekit.io/sekosolares/SekoSite/FB-Cover2_G34ySu9i6.png">](https://www.seko.dev)
+### ⌨ Frameworks I've used
+
+1. Svelte
+2. Angular
+
+
+### 🤔 Other interests
+
+- IT Security
+- Machine Learning
+- IoT
+- UX/UI Design
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sekosolares&height=100&skills=JavaScript,Python,C,C%2B%2B,Svelte">
 
 <!--
 **sekosolares/sekosolares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
