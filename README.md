@@ -25,6 +25,7 @@ My long term goal is to create something to help the planet.
 - Machine Learning
 - IoT
 - UX/UI Design
+- RPA
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sekosolares&height=100&skills=JavaScript,Python,C,C%2B%2B,Svelte">
 
