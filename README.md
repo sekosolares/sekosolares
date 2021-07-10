@@ -46,7 +46,7 @@ I have also worked with databases such as Oracle and Postgres using PL/SQL to ma
 
 
 #### CodeWars Info:
-<img src="https://www.codewars.com/users/sekosolares/badges/small">
+<img src="https://www.codewars.com/users/sekosolares/badges/large">
 
 <!--
 **sekosolares/sekosolares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
