@@ -1,4 +1,4 @@
-[<img src="https://ik.imagekit.io/sekosolares/SekoSite/FB-Cover2_G34ySu9i6.png" width="510">](https://www.seko.dev)
+<a href="https://www.seko.dev" target="_blank"><img src="https://ik.imagekit.io/sekosolares/SekoSite/FB-Cover2_G34ySu9i6.png" width="510"></a>
 
 ## 🙋🏻‍♂️ Welcome! Nice to see you here!
 
