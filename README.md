@@ -12,7 +12,7 @@ I have also worked with databases such as Oracle and Postgres using PL/SQL to ma
 👯 I’m looking to collaborate on some project to help our planet become a bit cleaner and improve life quality.
 
 
-⚙ I'm currently working on my own project: [Multi Asesorias y Tercerizacion - MAT](https://www.matgt.com), where I work as the main Web Developer of the website and the web app that we provide, aside of being the co-founder.
+<!-- ⚙ I'm currently working on my own project: [Multi Asesorias y Tercerizacion - MAT](https://www.matgt.com), where I work as the main Web Developer of the website and the web app that we provide, aside of being the co-founder. -->
 
 
 ### 👨🏻‍💻 Main skills
