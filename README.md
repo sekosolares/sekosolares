@@ -33,10 +33,6 @@ I have also worked with databases such as Oracle and Postgres using PL/SQL to ma
 
 ### 🤔 Other interests
 
-- IT Security
-- Machine Learning
-- Data Science
-- IoT
 - UX/UI Design
 - RPA
 
