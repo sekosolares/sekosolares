@@ -2,14 +2,11 @@
 
 ## 🙋🏻‍♂️ Welcome! Nice to see you here!
 
-🦉 Hi there! I am Seko, and I’m a web developer with 4+ years of experience on frontend development.
+🦉 Hi there! I am Seko, and I’m a web developer with 4+ years of experience on frontend development. Proactive, creative and responsible.
 
-My goal is to improve user experience by empathizing with their current and potential needs, building strong relationships amid user and system, through software experience design and my strong passion for technology.
+I am a fast learner with a curious mind. I like to improve my knowledge and skills by taking courses, making projects and reading documentation. When it comes to teamwork, I like to make my part and see how everything fits together as a big solution. As a developer, my goal is to create solutions as clean and good as possible.
 
 I have also worked with databases such as Oracle and Postgres using PL/SQL to manage Database-side processes.
-
-
-👯 I’m looking to collaborate on some project to help our planet become a bit cleaner and improve life quality.
 
 
 <!-- ⚙ I'm currently working on my own project: [Multi Asesorias y Tercerizacion - MAT](https://www.matgt.com), where I work as the main Web Developer of the website and the web app that we provide, aside of being the co-founder. -->
