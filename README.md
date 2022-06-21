@@ -4,12 +4,9 @@
 
 🦉 Hi there! I am Seko, and I’m a web developer with 4+ years of experience on frontend development. Proactive, creative and responsible.
 
-I am a fast learner with a curious mind. I like to improve my knowledge and skills by taking courses, making projects and reading documentation. When it comes to teamwork, I like to make my part and see how everything fits together as a big solution. As a developer, my goal is to create solutions as clean and good as possible.
+I am a fast learner with a curious mind. I like to improve my knowledge and skills by taking courses, making projects and reading documentation. When it comes to teamwork, I like to make my part and see how everything fits together as a big solution. As a developer, my goal is to build solutions and have fun in the process.
 
 I have also worked with databases such as Oracle and Postgres using PL/SQL to manage Database-side processes.
-
-
-<!-- ⚙ I'm currently working on my own project: [Multi Asesorias y Tercerizacion - MAT](https://www.matgt.com), where I work as the main Web Developer of the website and the web app that we provide, aside of being the co-founder. -->
 
 
 ### 👨🏻‍💻 Main skills
@@ -18,18 +15,20 @@ I have also worked with databases such as Oracle and Postgres using PL/SQL to ma
 2. HTML
 3. CSS
 4. Python
-5. C++
+5. React JS
 
 
-### ⌨ Frameworks I've used
+### ⌨ Frameworks/Libraries I've used
 
-1. Svelte
-2. Angular
-3. Flask (microframework)
+1. React JS
+2. Svelte
+3. Angular
+4. Flask (microframework)
 
 
 ### 🤔 Other interests
 
+- Backend
 - UX/UI Design
 - RPA
 
