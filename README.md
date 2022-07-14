@@ -37,8 +37,8 @@ I have also worked with databases such as Oracle and Postgres using PL/SQL to ma
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sekosolares&height=100&skills=JavaScript,Python,C,C%2B%2B,Svelte"> -->
 
 
-#### CodeWars Info:
-<img src="https://www.codewars.com/users/sekosolares/badges/large">
+<!-- #### CodeWars Info:
+<img src="https://www.codewars.com/users/sekosolares/badges/large"> -->
 
 <!--
 **sekosolares/sekosolares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
