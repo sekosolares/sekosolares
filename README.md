@@ -23,7 +23,7 @@
 
 ### 🤔 Other interests
 
-- Servers Admin
+- DevOps
 - RPA
 - Voice Acting
 
