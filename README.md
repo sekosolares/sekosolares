@@ -1,12 +1,8 @@
-<a href="https://www.seko.dev" target="_blank"><img src="https://ik.imagekit.io/sekosolares/SekoSite/FB-Cover2_G34ySu9i6.png" width="510"></a>
-
 ## 🙋🏻‍♂️ Welcome! Nice to see you here!
 
-🦉 Hi there! I am Seko, and I’m a web developer with 4+ years of experience on frontend development. Proactive, creative and responsible.
+🦉 Hi there! I am Axel (a.k.a. Seko), and I’m a web developer with 5+ years of experience mainly on frontend development.
 
-I am a fast learner with a curious mind. I like to improve my knowledge and skills by taking courses, making projects and reading documentation. When it comes to teamwork, I like to make my part and see how everything fits together as a big solution. As a developer, my goal is to build solutions and have fun in the process.
-
-I have also worked with databases such as Oracle and Postgres using PL/SQL to manage Database-side processes.
+⚡ I like to grow through new challenges and improve my knowledge and skills by creating or improving projects. When it comes to teamwork, I enjoy working so everything fits together as a working solution
 
 
 ### 👨🏻‍💻 Main skills
@@ -15,22 +11,21 @@ I have also worked with databases such as Oracle and Postgres using PL/SQL to ma
 2. HTML
 3. CSS
 4. Python
-5. React JS
 
 
 ### ⌨ Frameworks/Libraries I've used
 
 1. React JS
 2. Svelte
-3. Angular
-4. Flask (microframework)
+3. Django
+4. Flask
 
 
 ### 🤔 Other interests
 
-- Backend
-- UX/UI Design
+- Servers Admin
 - RPA
+- Voice Acting
 
 
 <!-- #### CodersRank Info:
