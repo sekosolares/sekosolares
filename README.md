@@ -8,7 +8,8 @@ adapt to the circumstances.
 
 Individually, improving and extending my skills through
 challenges and projects keeps me motivated. As a team
-developer, I’m aware that it’s important to deve
+developer, I’m aware that it’s important to develop not only a
+good solution, but also a great team together.
 
 ### Skills
 
