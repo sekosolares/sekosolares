@@ -1,15 +1,15 @@
 ## 🙋🏻‍♂️ Welcome! Nice to see you here!
 
-🦉 My name is Axel J. Solares (call me Seko) and I'm a Web developer
-with 5+ years of experience. Experienced with
-frontend technologies such as jQuery, React and Svelte; and
-backend like Django and ExpressJs. Able to learn fast and
+🦉 My name is Axel J. Solares (you can call me Seko), and I'm a Web developer
+with 6+ years of experience. Experienced with
+frontend technologies such as `jQuery`, `React`, `Angular`, and `Svelte`; and
+backend like `Django` and `Express.js`. Able to learn fast and
 adapt to the circumstances.
 
 Individually, improving and extending my skills through
 challenges and projects keeps me motivated. As a team
 developer, I’m aware that it’s important to develop not only a
-good solution, but also a great team together.
+good product/solution, but also a great team together.
 
 ### Skills
 
@@ -18,6 +18,7 @@ good solution, but also a great team together.
 - HTML
 - CSS
 - React
+- Angular
 - Svelte
 - NextJs
 
